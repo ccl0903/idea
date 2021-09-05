@@ -11,7 +11,7 @@ public class Hi {
         System.out.println("分支创建");
         int i= 0;
         if(i > -1){
-            System.out.printfln("你是对的");
+            System.out.println("你是对的");
         }
     }
 }
